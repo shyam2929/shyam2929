@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shyam2929
+- 👋 Hi, I’m @shyam29
 - 👀 I’m a web developer
 - 🌱 I’m currently working with React, MUI, HTML, CSS, JavaScript
 - 💞️ I’m looking to for open source projects based on React 
