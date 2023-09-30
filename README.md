@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shyam2929
-- 👀 I’m a web developer
+- 👀 A web developer
 - 🌱 I’m currently working with React, MUI, HTML, CSS, JavaScript
-- 💞️ I’m looking to for open source projects based on React 
+- 💞️ I’m looking for open source projects based on React 
 - 📫 How to reach me shyamssbgk29@gmail.com
 
 
